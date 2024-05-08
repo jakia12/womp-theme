@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fonty'; /* Name your font */
+    src: url('./font/GochiHand-Regular.ttf') format('woff2'), /* Specify the path to your font files */
+         url('path/to/your/font.woff') format('woff'); /* You can include multiple formats for better browser compatibility */
+    /* Add additional src declarations for other formats if necessary */
+  }
+
+ 
